@@ -1,0 +1,17 @@
+ * {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+
+ .box h1 {
+     margin-left: 700px;
+     height: 165px;
+     color: red;
+     font-size: 110px;
+     margin-top: 250px;
+ }
+
+ body {
+     background-color: black;
+ }
